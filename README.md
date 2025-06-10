@@ -1,5 +1,7 @@
 🧠 The Ultimate Home IT Lab — From Noob to Ninja
+
 🚀 Why I Built It
+
 This is not just a learning environment — it’s my personal cyber range, DevOps lab, and production-grade simulation platform. It exists to:
     • Test ideas
     • Break things
@@ -10,6 +12,7 @@ This is not just a learning environment — it’s my personal cyber range, DevO
     • Build infrastructure
     • Validate security controls
 It mirrors real-world enterprise complexity with domains, subnets, firewalls, logs, alerts, containers, and more. I built this lab to sharpen my skills in:
+
     • 🧩 Infrastructure & Networking
     • 🔐 Cybersecurity & Blue/Red Team Practices
     • 🖥️ Server & Endpoint Management
@@ -17,12 +20,14 @@ It mirrors real-world enterprise complexity with domains, subnets, firewalls, lo
     • ☁️ Hybrid Cloud Design
 
 🖥️ Core Lab Infrastructure
+
 💾 Hypervisor Environment
     • Proxmox VE Cluster (3 nodes) on bare metal
     • ZFS RAID1 with SSD Caching
     • High Availability (HA) enabled
     • Centralized backups with Proxmox Backup Server
 🛠️ Virtualized Machines & Containers
+
 Role
 OS
 Purpose
@@ -61,6 +66,7 @@ HashiCorp Vault
 Secrets management
 
 🌐 Network Design (Simulated Enterprise)
+
 VLAN Layout
     • VLAN 10 – Admin Zone (AD/DC, MGMT)
     • VLAN 20 – Workstations
@@ -74,6 +80,7 @@ Firewall Rules (pfSense)
     • Transparent proxy with Snort/Suricata inline detection
 
 🧪 Pro Labs (Real-World Simulation)
+
 🔐 Active Directory Attacks & Defense
     • MITRE ATT&CK simulations: Golden Ticket, Password Spraying, DCSync
     • Event forwarding to Wazuh for real-time detection
