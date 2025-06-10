@@ -6,7 +6,7 @@ This is a real-world simulation lab to practice IT support, system administratio
 
 ## 📘 Documentation
 
-- 📄 [HomeLab-Documentation.docx](./HomeLab-Documentation.docx)
+- 📄 [LABWORK.odt](./LABWORK.odt)
 
 ---
 
